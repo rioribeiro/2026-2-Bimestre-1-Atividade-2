@@ -23,7 +23,9 @@
 | maria clara<br>guilherme<br>josé vine | Java | FIXME |
 | arthur vinicius<br>arthur lima<br>caio lucas | C++ | FIXME |
 | rio<br>wheverthon<br>joão victor | Go | FIXME |
-| pedro mesias<br>paulo cesar | C# | FIXME |
+| pedro mesias<br>paulo cesar<br>alvaro | C# | FIXME |
 | julia<br>lyonara<br>lidia | Rust | FIXME |
 | iago<br>ana<br>valentine | Kotlin | FIXME |
 | denju<br>andre<br>lucas gabryel | lua | FIXME |
+| daniel<br>hudson<br>rafael | elixir | FIXME |
+
