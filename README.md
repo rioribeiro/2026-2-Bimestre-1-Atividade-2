@@ -19,13 +19,14 @@
 ## Grupos (min. 2 e máx. 3)
 | Time | Linguagem | Repositório |
 | ---- | --------- | ----------- |
-| jadson<br>luiz<br>arkângelo | Typescript | FIXME |
-| maria clara<br>guilherme<br>josé vine | Java | FIXME |
-| arthur vinicius<br>arthur lima<br>caio lucas | C++ | FIXME |
-| rio<br>wheverthon<br>joão victor | Go | FIXME |
-| pedro mesias<br>paulo cesar<br>alvaro | C# | FIXME |
-| julia<br>lyonara<br>lidia | Rust | FIXME |
-| iago<br>ana<br>valentine | Kotlin | FIXME |
-| denju<br>andre<br>lucas gabryel | lua | FIXME |
-| daniel<br>hudson<br>rafael | elixir | FIXME |
+| Álvaro Luiz Barbalho de Souza Filho<br>Paulo Cesar Moreira da Silva<br>Pedro Messias Dias Neto | C# | FIXME |
+| Artur Lima Melo<br>Arthur Vinicius Barreto Demetrio<br>Caio Lucas Alves de Oliveira | C++ | FIXME |
+| Geovanna Negreiros de Araújo<br>Haama Kethelen Souza Reis | Clojure | FIXME |
+| Daniel Araujo Azevedo<br>Fábio Hudson Gomes de Souza<br>Rafael Duarte da Silva de Brito | Elixir | FIXME |
+| João Victor Marques Campos<br>Rio Ribeiro da Silva<br>Wheverton Cruz da Silva Filho | Go | FIXME |
+| Guilherme da Silva Cruz<br>José Vine Nunes Martins Araújo<br>Maria Clara Batista Viana Silva | Java | FIXME |
+| Ana Letícia Vidal de Oliveira<br>Iago Vinícius Souza de Sales<br>Valentine Varela | Kotlin | FIXME |
+| Andre Medeiros Silva<br>Denju Gabriel da Silva Lira<br>Lucas Gabryel Silva de Holanda | Lua | FIXME |
+| Julia Rafaelly Siqueira de Lima<br>Lidia Rebeka da Silva Fernandes<br>Lyonara da Silva Camelo | Rust | FIXME |
+| Arkângelo Maycon Ashley da Silva Barbosa<br>Jadson de Medeiros Souza<br>Luiz Rodrigues da Silveira Neto | Typescript | FIXME |
 
